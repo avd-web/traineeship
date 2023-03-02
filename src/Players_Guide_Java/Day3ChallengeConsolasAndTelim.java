@@ -2,7 +2,7 @@ package Players_Guide_Java;
 
 import java.util.Scanner;
 
-public class Day3TheThingNamer3000 {
+public class Day3ChallengeConsolasAndTelim {
 
     private static void askUserInput() {
         System.out.println("Bread is ready.");
