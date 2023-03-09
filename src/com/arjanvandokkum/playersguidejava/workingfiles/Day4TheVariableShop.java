@@ -1,4 +1,4 @@
-package com.arjanvandokkum.playersguidejava;
+package com.arjanvandokkum.playersguidejava.workingfiles;
 
 public class Day4TheVariableShop {
 
@@ -23,7 +23,5 @@ public class Day4TheVariableShop {
         System.out.println("double = " + DOUBLE);
 
         // NOTE FINAL STATIC declarations use CAPSLOCK CASE instead of camel/pascal case
-
-
-}
+        }
 }

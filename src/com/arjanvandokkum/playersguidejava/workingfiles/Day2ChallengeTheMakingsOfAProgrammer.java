@@ -1,4 +1,4 @@
-package com.arjanvandokkum.playersguidejava;
+package com.arjanvandokkum.playersguidejava.workingfiles;
 
 public class Day2ChallengeTheMakingsOfAProgrammer {
     public static void main(String[] args) {

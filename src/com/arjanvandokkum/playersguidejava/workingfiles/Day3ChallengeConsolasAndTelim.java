@@ -1,4 +1,4 @@
-package com.arjanvandokkum.playersguidejava;
+package com.arjanvandokkum.playersguidejava.workingfiles;
 
 import java.util.Scanner;
 

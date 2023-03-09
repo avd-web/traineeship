@@ -1,4 +1,4 @@
-package com.arjanvandokkum.playersguidejava;
+package com.arjanvandokkum.playersguidejava.workingfiles;
 
 public class Day1HelloWorld {
     public static void main(String[] args) {

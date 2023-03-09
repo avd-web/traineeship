@@ -1,4 +1,4 @@
-package com.arjanvandokkum.playersguidejava;
+package com.arjanvandokkum.playersguidejava.workingfiles;
 
 public class Day2ChallengeWhatComesNext {
     public static void main(String[] args) {
