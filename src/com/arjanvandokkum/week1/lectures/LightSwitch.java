@@ -1,4 +1,4 @@
-package com.arjanvandokkum.week1;
+package com.arjanvandokkum.week1.lectures;
 
 import java.util.Scanner;
 

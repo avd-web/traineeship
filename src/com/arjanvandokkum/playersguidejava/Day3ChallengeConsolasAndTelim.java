@@ -1,4 +1,4 @@
-package Players_Guide_Java;
+package com.arjanvandokkum.playersguidejava;
 
 import java.util.Scanner;
 
@@ -11,11 +11,7 @@ public class Day3ChallengeConsolasAndTelim {
         String userName = scannerUserInput.nextLine();
         System.out.println("Noted: " + userName + " got bread.");
     }
-    private static void main(String[] args) {
+    public static void main(String[] args) {
         askUserInput();
-
-
-
-
     }
 }

@@ -1,4 +1,4 @@
-package com.arjanvandokkum.week1;
+package com.arjanvandokkum.week1.lectures;
 
 public class Lamp {
     public static void main(String[] args) {
